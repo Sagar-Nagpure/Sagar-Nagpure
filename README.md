@@ -55,18 +55,6 @@ Working on **Data Science, Machine Learning, and GenAI projects** with real-worl
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sagar-Nagpure&theme=dark&show_icons=true&hide_border=false" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Sagar-Nagpure&theme=dark&hide_border=false" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar-Nagpure&theme=dark&layout=compact&hide_border=false" />
-</p>
-
----
-
 ## 🏆 Top Contributions
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Sagar-Nagpure&limit=5&theme=dark&combine_all_yearly_contributions=true" />
