@@ -54,8 +54,3 @@ Working on **Data Science, Machine Learning, and GenAI projects** with real-worl
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
-
-## 🏆 Top Contributions
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Sagar-Nagpure&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
